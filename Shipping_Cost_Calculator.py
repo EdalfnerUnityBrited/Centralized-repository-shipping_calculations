@@ -1,5 +1,4 @@
  # Aquí hay una nueva actualización por <edalfnerunitybrited>
- # Here is another update by <edalfnerunitybrited>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
